@@ -1,4 +1,4 @@
-![Preview](images\preview_yeni.png)
+![Preview](images/preview_yeni.png)
 
 # Introduction
 This project documents an automated data pipeline built for a luxury watch reseller to track auction market prices. The system collects daily auction data, processes it into structured datasets, and delivers it through Google Sheets document and Tableau Dashboard used for purchasing and resale decisions.
@@ -24,7 +24,7 @@ Automated scraping → Data cleaning → CSV storage → Google Sheets documents
 
 * Data is cleaned and structured using Pandas into CSV file.
 * Uploaded and updated automatically using Google Sheets AppScript
-* Stored in Google Sheets
+* Stored in Google Sheet
 
 **4. Data Access**
 * End users interact with the data through both Google Sheets and Tableau.
