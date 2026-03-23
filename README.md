@@ -24,7 +24,7 @@ Automated scraping → Data cleaning → CSV storage → Google Sheets documents
 
 * Data is cleaned and structured using Pandas into CSV file.
 * Uploaded and updated automatically using Google Sheets AppScript
-* Stored in Google Sheet
+* Stored in Google Sheets
 
 **4. Data Access**
 * End users interact with the data through both Google Sheets and Tableau.
